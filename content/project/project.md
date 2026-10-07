@@ -1,6 +1,5 @@
 ---
 title: Project Context
-weight: 10
 ---
 
 ```yaml
