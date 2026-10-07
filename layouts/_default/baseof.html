@@ -4,16 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
-    <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
+    <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
     <header>
         <nav>
-            <a href="{{ "" | absURL }}" class="logo">{{ .Site.Title }}</a>
+            <a href="/" class="logo">{{ .Site.Title }}</a>
             <div class="nav-links">
-                <a href="{{ "docs/project/project" | relURL }}">Project</a>
-                <a href="{{ "docs/specs/senior-analyst" | relURL }}">Spec</a>
-                <a href="{{ "docs/project/agents" | relURL }}">AGENTS</a>
+                <a href="/docs/project/project">Project</a>
+                <a href="/docs/specs/senior-analyst">Spec</a>
+                <a href="/docs/project/agents">AGENTS</a>
                 <a href="https://github.com/apelsinchikov/sdd-system-analyst" target="_blank">GitHub ↗</a>
             </div>
         </nav>

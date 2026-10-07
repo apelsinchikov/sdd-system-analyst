@@ -1,7 +1,6 @@
 baseURL = "https://apelsinchikov.github.io/sdd-system-analyst/"
 languageCode = "ru"
 title = "SDD System Analyst"
-theme = ""
 
 [params]
   description = "Spec-Driven Development для системного аналитика"
@@ -11,3 +10,6 @@ theme = ""
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[outputs]
+  home = ["HTML"]
