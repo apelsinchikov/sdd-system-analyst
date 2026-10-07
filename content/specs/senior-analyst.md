@@ -1,5 +1,5 @@
 ---
-title: Spec: Senior Systems Analyst
+title: "Spec: Senior Systems Analyst"
 ---
 
 Формальные требования к работе Senior Systems Analyst.
