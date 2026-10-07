@@ -1,6 +1,6 @@
 ---
-title: "AGENTS.md — Rituals & Communication"
-description: "Ритуалы, коммуникация, границы, антипаттерны Senior Systems Analyst"
+title: AGENTS.md
+weight: 20
 ---
 
 Инструкция для ИИ-агента (или человека), исполняющего роль

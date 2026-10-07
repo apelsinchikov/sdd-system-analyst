@@ -1,6 +1,6 @@
 ---
 title: "Spec: Senior Systems Analyst"
-description: "Формальные требования к работе Senior Systems Analyst (RFC 2119)"
+weight: 10
 ---
 
 Формальные требования к работе Senior Systems Analyst.

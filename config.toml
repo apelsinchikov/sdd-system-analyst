@@ -1,15 +1,15 @@
-baseURL = "https://apelsinchikov.github.io/sdd-system-analyst/"
-languageCode = "ru"
-title = "SDD System Analyst"
+title: SDD System Analyst
+baseURL: https://apelsinchikov.github.io/sdd-system-analyst/
+theme: book
 
 [params]
-  description = "Spec-Driven Development для системного аналитика"
-  author = "apelsinchikov"
+  # Book configuration
+  BookToC = true
+  BookTheme = "auto"
+  BookRepo = "https://github.com/apelsinchikov/sdd-system-analyst"
+  BookEditPath = "edit/main/content"
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
-[outputs]
-  home = ["HTML"]

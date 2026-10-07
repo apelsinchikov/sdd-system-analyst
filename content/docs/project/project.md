@@ -1,6 +1,6 @@
 ---
-title: "Project Context"
-description: "Миссия, принципы, зона ответственности Senior Systems Analyst"
+title: Project Context
+weight: 10
 ---
 
 ```yaml
