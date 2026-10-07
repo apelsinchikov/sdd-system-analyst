@@ -20,9 +20,9 @@ title: sdd-system-analyst
 
 | Раздел | Описание |
 |--------|----------|
-| [Project Context](project/project/) | Миссия, принципы, зона ответственности |
-| [AGENTS](project/agents/) | Ритуалы, коммуникация, границы, антипаттерны |
-| [Spec](specs/senior-analyst/) | Формальные требования к работе (RFC 2119) |
+| [Project Context](docs/project/project/) | Миссия, принципы, зона ответственности |
+| [AGENTS](docs/project/agents/) | Ритуалы, коммуникация, границы, антипаттерны |
+| [Spec](docs/specs/senior-analyst/) | Формальные требования к работе (RFC 2119) |
 
 ---
 
