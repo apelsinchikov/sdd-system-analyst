@@ -1,9 +1,8 @@
-title: SDD System Analyst
-baseURL: https://apelsinchikov.github.io/sdd-system-analyst/
-theme: book
+title = "SDD System Analyst"
+baseURL = "https://apelsinchikov.github.io/sdd-system-analyst/"
+theme = "book"
 
 [params]
-  # Book configuration
   BookToC = true
   BookTheme = "auto"
   BookRepo = "https://github.com/apelsinchikov/sdd-system-analyst"
