@@ -1,14 +1,23 @@
-title = "SDD System Analyst"
 baseURL = "https://apelsinchikov.github.io/sdd-system-analyst/"
-theme = "book"
+languageCode = "ru"
+title = "SDD System Analyst"
+theme = "techdoc"
+
+defaultContentLanguage = "ru"
+hasCJKLanguage = true
 
 [params]
-  BookToC = true
-  BookTheme = "auto"
-  BookRepo = "https://github.com/apelsinchikov/sdd-system-analyst"
-  BookEditPath = "edit/main/content"
+  description = "Spec-Driven Development для системного аналитика"
+  github_repository = "https://github.com/apelsinchikov/sdd-system-analyst"
+  github_doc_repository = "https://github.com/apelsinchikov/sdd-system-analyst"
+  menu_style = "slide-menu"
+  ordersectionsby = "weight"
 
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 6
+    ordered = false

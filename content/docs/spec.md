@@ -1,5 +1,6 @@
 ---
 title: "Spec: Senior Systems Analyst"
+weight: 30
 ---
 
 Формальные требования к работе Senior Systems Analyst.
