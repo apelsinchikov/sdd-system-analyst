@@ -7,6 +7,7 @@ theme = "book"
   BookTheme = "auto"
   BookRepo = "https://github.com/apelsinchikov/sdd-system-analyst"
   BookEditPath = "edit/main/content"
+  BookSection = ""
 
 [markup]
   [markup.goldmark]
